@@ -29,7 +29,7 @@ pip freeze > requirements.txt
 Clone the repository:
 bash
 ```
-git clone [https://github.com/your-username/python-toolkit.git](https://github.com/your-username/python-toolkit.git)
+git clone [https://github.com/athisham94/Network-Utility-Toolkit.git)
 ```
 
 Navigate to the project directory:
